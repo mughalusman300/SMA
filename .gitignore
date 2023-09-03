@@ -1,0 +1,14 @@
+/nbproject/private/
+/nbproject
+application/config
+/application/cache
+application/config/config
+/application/config/database.php
+
+.idea
+
+system
+school
+uploads
+htaccess
+
